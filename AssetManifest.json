@@ -1,0 +1,61 @@
+{
+    "downloadable_content": [
+        {
+            "content_name": "",
+            "content_id": "",
+            "description": "",
+            "scheduled_end_support_date": {
+                "hour": 13,
+                "minute": 50,
+                "second": 32,
+                "day": 07,
+                "month": 11,
+                "year": 2025 
+            },
+            "change_log": [
+                
+            ],
+            "date_created": {
+                "hour": 13,
+                "minute": 50,
+                "second": 32,
+                "day": 07,
+                "month": 11,
+                "year": 2024
+            },
+            "content_version": {
+                "release": 0,
+                "update": 0,
+                "alpha": 0,
+                "beta": 1
+            },
+            "assets": [
+                {
+                    "asset_id": "",
+                    "chunk_id": 1000,
+                    "file_id": "",
+                    "size_data": {
+                        "size": "",
+                        "unit": "",
+                    } 
+                    "asset_version": {
+                        "release": 0,
+                        "update": 0,
+                        "alpha": 0,
+                        "beta": 1
+                    },
+                    "date_created": {
+                        "day": 07,
+                        "month": 11,
+                        "year": 2024
+                    },
+                    "description": "",
+                    "change_log": [
+                        
+                    ].
+                }
+            ]
+            
+        },
+    ]
+}
