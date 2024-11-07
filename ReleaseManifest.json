@@ -1,0 +1,46 @@
+{
+    "software_versions": [
+        {
+            "software_version": {
+                "release": 0,
+                "update": 0,
+                "alpha": 0,
+                "beta": 1
+            },
+            "date_released": {
+                "day": 07,
+                "month": 11,
+                "year": 2024
+            },
+            "ui": {
+                "required": {
+                    "version": {
+                        "release": 0,
+                        "update": 0,
+                        "alpha": 0,
+                        "beta": 1,
+                    },
+                    "file_id": ""
+                },
+                "lite": {
+                    "version": {
+                        "release": 0,
+                        "update": 0,
+                        "alpha": 0,
+                        "beta": 1
+                    },
+                    "file_id": "
+                },
+                "pro": {
+                    "version": {
+                        "release": 0,
+                        "update": 0,
+                        "alpha": 0,
+                        "beta": 1
+                    },
+                    "file_id": ""
+                },
+            },
+        },
+    ]
+}
